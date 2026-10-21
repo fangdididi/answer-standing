@@ -1,0 +1,27 @@
+# Truth sheet: the facts an AI answer will be graded against.
+# One key per fact. Every fact needs an "as_of" date and a public URL where a reader can see it.
+# If a fact is not stated publicly anywhere, write public_url: none - that gap is itself a finding.
+product:
+  name: ""
+  also_called: []          # spellings, old names, local names
+  not_to_be_confused_with: []   # namesakes, former owners, similar-sounding products
+facts:
+  what_it_is:
+    value: ""
+    as_of: ""
+    public_url: ""
+  price:
+    value: ""
+    as_of: ""
+    public_url: ""
+  platforms:
+    value: ""
+    as_of: ""
+    public_url: ""
+  key_limits:            # honest limits matter: AIs often invent missing features
+    value: ""
+    as_of: ""
+    public_url: ""
+retired_facts:           # things that used to be true; stale answers usually repeat these
+  - fact: ""
+    true_until: ""

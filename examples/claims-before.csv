@@ -1,0 +1,8 @@
+question_id,engine,claim,verdict,truth_key,source,fix
+Q03,chatgpt-nosearch,Nimbus Books is only available on iPhone,stale,platforms,own FAQ page /faq (says Android coming soon),edit FAQ + dated note on homepage
+Q03,chatgpt-search,Nimbus Books is only available on iPhone,stale,platforms,comparison article 2025 (third party),email author with store link
+Q07,chatgpt-search,Nimbus Books has a free plan for one user,correct,price,,
+Q07,chatgpt-nosearch,Nimbus Books costs 9 USD a month,stale,price,app directory listing,update listing
+Q11,chatgpt-nosearch,Nimbus Books was acquired by Nimbus Cloud in 2024,conflated,owner,model memory (namesake company),publish About page with owner and founding date
+Q11,chatgpt-search,Nimbus Books exports to CSV and PDF,correct,export,,
+Q03,chatgpt-search,Nimbus Books supports bank sync in 30 countries,invented,bank_sync,no source found,

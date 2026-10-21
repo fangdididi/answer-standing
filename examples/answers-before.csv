@@ -1,0 +1,73 @@
+batch,date,engine,mode,question_id,family,repeat,mentioned,position,framing,names
+2026-09-01,2026-09-01,chatgpt-search,search,Q01,category,1,n,,,Tallybook;Brightly Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q01,category,2,n,,,Ledgerly;PennyPad
+2026-09-01,2026-09-01,chatgpt-search,search,Q01,category,3,n,,,Ledgerly;PennyPad
+2026-09-01,2026-09-01,chatgpt-search,search,Q02,comparison,1,n,,,Ledgerly;Tallybook
+2026-09-01,2026-09-01,chatgpt-search,search,Q02,comparison,2,n,,,Tallybook;Ledgerly
+2026-09-01,2026-09-01,chatgpt-search,search,Q02,comparison,3,n,,,Ledgerly;PennyPad
+2026-09-01,2026-09-01,chatgpt-search,search,Q03,direct,1,y,1,rec,Ledgerly;Brightly Books;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q03,direct,2,y,1,neutral,Brightly Books;Ledgerly;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q03,direct,3,y,1,neutral,Ledgerly;PennyPad;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q04,problem,1,n,,,Tallybook;PennyPad
+2026-09-01,2026-09-01,chatgpt-search,search,Q04,problem,2,n,,,PennyPad;Brightly Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q04,problem,3,n,,,Tallybook;Ledgerly
+2026-09-01,2026-09-01,chatgpt-search,search,Q05,category,1,n,,,Tallybook;Brightly Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q05,category,2,n,,,Ledgerly;PennyPad
+2026-09-01,2026-09-01,chatgpt-search,search,Q05,category,3,y,3,warn,Tallybook;Brightly Books;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q06,comparison,1,n,,,Brightly Books;PennyPad
+2026-09-01,2026-09-01,chatgpt-search,search,Q06,comparison,2,n,,,PennyPad;Tallybook
+2026-09-01,2026-09-01,chatgpt-search,search,Q06,comparison,3,n,,,Tallybook;PennyPad
+2026-09-01,2026-09-01,chatgpt-search,search,Q07,direct,1,y,1,neutral,Tallybook;Ledgerly;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q07,direct,2,y,1,warn,Brightly Books;Tallybook;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q07,direct,3,y,1,rec,PennyPad;Brightly Books;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q08,problem,1,n,,,Brightly Books;Ledgerly
+2026-09-01,2026-09-01,chatgpt-search,search,Q08,problem,2,n,,,Tallybook;Brightly Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q08,problem,3,n,,,Ledgerly;PennyPad
+2026-09-01,2026-09-01,chatgpt-search,search,Q09,category,1,n,,,PennyPad;Tallybook
+2026-09-01,2026-09-01,chatgpt-search,search,Q09,category,2,n,,,Brightly Books;PennyPad
+2026-09-01,2026-09-01,chatgpt-search,search,Q09,category,3,n,,,Ledgerly;Brightly Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q10,comparison,1,n,,,Brightly Books;PennyPad
+2026-09-01,2026-09-01,chatgpt-search,search,Q10,comparison,2,n,,,Ledgerly;PennyPad
+2026-09-01,2026-09-01,chatgpt-search,search,Q10,comparison,3,n,,,Brightly Books;Tallybook
+2026-09-01,2026-09-01,chatgpt-search,search,Q11,direct,1,y,1,neutral,Brightly Books;PennyPad;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q11,direct,2,y,1,neutral,Ledgerly;Tallybook;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q11,direct,3,y,1,rec,Tallybook;PennyPad;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q12,problem,1,n,,,Tallybook;Brightly Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q12,problem,2,n,,,Tallybook;Brightly Books
+2026-09-01,2026-09-01,chatgpt-search,search,Q12,problem,3,n,,,Brightly Books;Ledgerly
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q01,category,1,n,,,Brightly Books;PennyPad
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q01,category,2,n,,,Tallybook;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q01,category,3,n,,,PennyPad;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q02,comparison,1,n,,,PennyPad;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q02,comparison,2,n,,,Tallybook;Ledgerly
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q02,comparison,3,n,,,Tallybook;Ledgerly
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q03,direct,1,y,1,warn,Tallybook;Ledgerly;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q03,direct,2,y,1,neutral,Tallybook;Brightly Books;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q03,direct,3,y,1,warn,Ledgerly;Brightly Books;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q04,problem,1,n,,,PennyPad;Ledgerly
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q04,problem,2,n,,,Ledgerly;Tallybook
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q04,problem,3,n,,,Brightly Books;Tallybook
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q05,category,1,n,,,Ledgerly;Tallybook
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q05,category,2,n,,,Ledgerly;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q05,category,3,y,1,rec,Tallybook;Brightly Books;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q06,comparison,1,n,,,Ledgerly;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q06,comparison,2,y,1,neutral,Tallybook;PennyPad;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q06,comparison,3,n,,,Ledgerly;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q07,direct,1,y,1,neutral,Brightly Books;Ledgerly;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q07,direct,2,y,1,neutral,PennyPad;Brightly Books;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q07,direct,3,y,1,rec,Brightly Books;Ledgerly;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q08,problem,1,n,,,Brightly Books;Tallybook
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q08,problem,2,n,,,Ledgerly;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q08,problem,3,n,,,PennyPad;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q09,category,1,n,,,Tallybook;PennyPad
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q09,category,2,y,3,rec,PennyPad;Ledgerly;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q09,category,3,n,,,PennyPad;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q10,comparison,1,n,,,PennyPad;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q10,comparison,2,n,,,Tallybook;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q10,comparison,3,n,,,PennyPad;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q11,direct,1,y,1,neutral,Tallybook;PennyPad;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q11,direct,2,y,1,neutral,Tallybook;Brightly Books;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q11,direct,3,y,1,warn,Tallybook;PennyPad;Nimbus Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q12,problem,1,n,,,Ledgerly;Brightly Books
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q12,problem,2,n,,,Brightly Books;Tallybook
+2026-09-01,2026-09-01,chatgpt-nosearch,off,Q12,problem,3,n,,,PennyPad;Tallybook
